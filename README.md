@@ -21,6 +21,15 @@ Followed the instructions in the README to create an environment and install dep
 **Tweaking**: I used the same logic as explained in the video to make a graph corresponding to the problem statement-How much CGPA did I get.
 ![Alt text](image2.png)
 
+### Lesson 3- Langsmith Studio
+- Explains how to setup langsmith studio for viewing and testing agents.
+- To track the various runs of graphs we use thread section of the studio.
+- Multiple inputs can be added in graph state to add nodes and form a graph.
+![Alt text](image3.png)
+
+
+
+
 
 
  
