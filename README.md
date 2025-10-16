@@ -49,6 +49,17 @@ Followed the instructions in the README to create an environment and install dep
 **Tweaking**:
 ![Alt text](image6.png)
 
+### Lesson 7- Agent with memory:
+- Introduced memory in our agent 
+- State is transient to single graph execution
+- Graph- Control flow of nodes, edges.
+- Each sequential node is a superstep whereas parallel nodes have common superstep
+- Checkpoints contain the state of the graph at each step of the execution.
+- Thread is a collection of checkpoints
+- NLM is turned into a tool call which is passed to the tools node which provides the output and it goes back to the assistant in order to produce the output in Natural Language.
+**Tweaking**:
+![Alt text](image6.png)
+
 
 
 
