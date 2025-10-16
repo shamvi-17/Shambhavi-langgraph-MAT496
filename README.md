@@ -27,7 +27,12 @@ Followed the instructions in the README to create an environment and install dep
 - Multiple inputs can be added in graph state to add nodes and form a graph.
 ![Alt text](image3.png)
 
-
+### Lesson 4- Chain:
+- We build a simple chain that uses chat messages in our graph, uses chat models, binds tools to our LLM and executes tool calls in our graph.
+- We can take a list of messages and pass it onto the chat model
+- To connect our chat model to external tool like an API it requires a particular payload to run.
+- To append a message use reducers.
+**Tweaking:**Made changes in the notebook, changed the datasets and tools to produce the corresponding graph.
 
 
 
