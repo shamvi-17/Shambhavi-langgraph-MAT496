@@ -41,6 +41,14 @@ Followed the instructions in the README to create an environment and install dep
 - **Tweaking**: Changed the tool from multiplication to subtraction and changed the datasets.
 ![Alt text](image5.png)
 
+### Lesson 6- Agent:
+- We can turn router into a generic agent architecture.
+- The model can either end or can pass the tool output back to he model.
+- In the video they showed three sequential tool calls made by the agent.
+- You can see the tracing of your project in langsmith, where it shows the various steps and process of your project. You can also check latency and token count.
+**Tweaking**:
+![Alt text](image6.png)
+
 
 
 
