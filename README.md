@@ -35,6 +35,11 @@ Followed the instructions in the README to create an environment and install dep
 - **Tweaking**: Made changes in the notebook, changed the datasets and tools to produce the corresponding graph.
 
 ### Lesson 5- Router:
+- Router is a simple kind of agent which routes between response and tool calling 
+- Conditional edge is going to look at the output and if that output is a tool call it will route to the tools node, otherwise it will just end.
+![Alt text](image4.png)
+- **Tweaking**: Changed the tool from multiplication to subtraction and changed the datasets.
+![Alt text](image5.png)
 
 
 
