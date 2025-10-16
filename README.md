@@ -32,7 +32,10 @@ Followed the instructions in the README to create an environment and install dep
 - We can take a list of messages and pass it onto the chat model
 - To connect our chat model to external tool like an API it requires a particular payload to run.
 - To append a message use reducers.
-**Tweaking:**Made changes in the notebook, changed the datasets and tools to produce the corresponding graph.
+- **Tweaking**: Made changes in the notebook, changed the datasets and tools to produce the corresponding graph.
+
+### Lesson 5- Router:
+
 
 
 
