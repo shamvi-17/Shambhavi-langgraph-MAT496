@@ -61,6 +61,16 @@ Followed the instructions in the README to create an environment and install dep
 ![Alt text](image6.png)
 
 
+## Module 2 
+
+### Lesson 1- State schema:
+- ⁠Learned how to manage state in LangGraph using TypedDict, dataclass, and Pydantic.
+- Understood how to structure data for graph nodes and keep track of values across steps.
+- Saw the difference between type hints and runtime validation, and how Pydantic helps catch invalid data.
+- Practiced building a small graph where the agent can make decisions and update state dynamically.
+- **Tweaks**:Added schema validation check and a utility function to display schema metadata.
+
+
 
 
 
