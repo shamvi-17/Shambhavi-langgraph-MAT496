@@ -109,6 +109,6 @@ Followed the instructions in the README to create an environment and install dep
 - Combines message summarization with database memory to maintain context efficiently.
 - Makes the chatbot smarter, more reliable, and capable of long-term understanding.
 ![Alt text](image9.png)
-**Tweaks**:Added message timestamping and automatic session creation, added message timestamping and automatic session creation and showed how messages are added, retrieved, and filtered to resemble an active chat session.
+**Tweaks**:Added message timestamping and automatic session creation,showed how messages are added, retrieved, and filtered to resemble an active chat session.
 
  
