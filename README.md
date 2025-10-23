@@ -77,8 +77,13 @@ Followed the instructions in the README to create an environment and install dep
 - Saw how reducers help keep our state consistent and conflict-free in branching or parallel nodes.
 **Tweaks**:Used average computation in state update, Gave graph example with merge node and altered logic,added validation logic in reducer and used more complex computation with scaling factor.
 
-
-
+### Lesson 3- Multiple Schemas:
+- From this lesson, I learned how we can use more than one schema in LangGraph instead of just one for the whole graph.
+- Usually, all nodes share the same state for input and output, but that doesn’t always fit every situation.
+- Sometimes, certain nodes need to exchange temporary or private data that isn’t needed in the final output.
+- In those cases, we can use a private state schema to handle that internal data.
+- This makes the graph cleaner and more efficient, since we can separate what’s just internal from what actually matters in the overall result.
+**Tweaks**:Added Simple state modification with mild logic change, simple graph with two connected nodes,basic conditional logic in reducer,simple arithmetic and printing for clarity.
 
 
  
