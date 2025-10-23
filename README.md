@@ -94,7 +94,12 @@ Followed the instructions in the README to create an environment and install dep
 ![Alt text](image8.png)
 **Tweaks**:Revised dataset with different characters and tone, added new trimming function with a different name and argument order, added a selective filter function and combined both filters and trimmer in one wrapper.
 
-
-
+### Lesson 5- Chatbot summarization
+- The lesson showed how a chatbot can remember past conversations by creating short summaries instead of storing full chat history.
+- It explained how summarization helps keep context while reducing token usage and improving speed.
+- It demonstrated how LangChain and LangGraph work together to manage conversation flow and memory.
+- The concept of running summaries made it easier for the chatbot to handle long, continuous interactions.
+- Overall, the lesson highlighted how memory and summarization make chatbots feel more intelligent, efficient, and human-like in conversation.
+**Tweaks**:Createrd new sample chat (different characters and conversation tone),new summarization function name + small logic tweak and generated summary for the sample data.
 
  
