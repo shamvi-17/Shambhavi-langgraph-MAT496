@@ -70,6 +70,12 @@ Followed the instructions in the README to create an environment and install dep
 - Practiced building a small graph where the agent can make decisions and update state dynamically.
 - **Tweaks**:Added schema validation check and a utility function to display schema metadata.
 
+### Lesson 2- State reducers:
+- Learned how reducers in LangGraph let us control how state updates happen, especially when multiple nodes run at the same time.
+- Explored built-in reducers like operator.add and add_messages, and also how to make custom reducers for tricky cases like None values.
+- Practiced using reducers to combine data safely, add new messages, update existing ones, and even remove messages when needed.
+- Saw how reducers help keep our state consistent and conflict-free in branching or parallel nodes.
+
 
 
 
