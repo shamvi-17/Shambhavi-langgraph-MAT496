@@ -91,6 +91,7 @@ Followed the instructions in the README to create an environment and install dep
 - Learned to customize graph state schemas to control how data is stored and passed.
 - Understood custom state reducers for updating conversation state.
 - Used LangSmith for tracing and monitoring model behavior.
+![Alt text](image8.png)
 **Tweaks**:Revised dataset with different characters and tone, added new trimming function with a different name and argument order, added a selective filter function and combined both filters and trimmer in one wrapper.
 
 
