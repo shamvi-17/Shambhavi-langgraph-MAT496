@@ -85,5 +85,15 @@ Followed the instructions in the README to create an environment and install dep
 - This makes the graph cleaner and more efficient, since we can separate what’s just internal from what actually matters in the overall result.
 **Tweaks**:Added Simple state modification with mild logic change, simple graph with two connected nodes,basic conditional logic in reducer,simple arithmetic and printing for clarity.
 
+### Lesson 4- Trim filter messages:
+- Learned how to manage and organize chat messages in LangGraph.
+- Understood how to filter and trim messages to keep only important parts of a conversation.
+- Learned to customize graph state schemas to control how data is stored and passed.
+- Understood custom state reducers for updating conversation state.
+- Used LangSmith for tracing and monitoring model behavior.
+**Tweaks**:Revised dataset with different characters and tone, added new trimming function with a different name and argument order, added a selective filter function and combined both filters and trimmer in one wrapper.
+
+
+
 
  
