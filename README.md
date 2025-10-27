@@ -129,6 +129,14 @@ LangGraph lets us edit a graph’s state using human feedback without rerunning 
 Dynamic breakpoints let us pause a graph’s execution only when certain conditions are met. Instead of stopping at fixed points, they adapt based on the data or logic being processed. This makes it easier to focus on specific parts of the workflow, analyze how the graph behaves in real situations, and debug issues more precisely without interrupting the entire flow.
 **Tweaks**:Changed variable name and generated corresponding result
 
-### Lesson 
+### Lesson 5- Time Travel:
+Time travel in LangGraph lets us go back to a previous point in the graph and pick up from there. Instead of running the whole graph again, we can revisit an earlier state, check what went wrong or what changed, and then continue from that point. It’s a really practical way to debug, test different outcomes, and fine-tune how the graph works without wasting time re-running everything.
+**Tweaks**: Changed multiplication to division (4 by 2) and made necessary modifications to fork and get different outputs in the tools section.
+
+![Alt text](image10.png)
+Added another example (4 divided by 1) to show changes in assistant and tools section
+![Alt text](image11.png)
+![Alt text](image12.png)
+
 
 
