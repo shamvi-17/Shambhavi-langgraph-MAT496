@@ -121,3 +121,9 @@ Learned how streaming responses are generated step-by-step in LangGraph and how 
 Breakpoints in LangGraph let us pause a graph’s execution at certain nodes to observe data flow and intermediate outputs. They make debugging and testing easier by allowing us to inspect the graph’s state and then continue execution without restarting. Overall, it’s a clear and efficient way to understand and refine how the graph runs step by step.
 **Tweaks**:Updated the example prompt from Multiply 2 and 3 to Add 5 and 10.
 
+### Lesson 3- Editing State and Human Feedback 
+LangGraph lets us edit a graph’s state using human feedback without rerunning the whole flow. We can directly modify node outputs or messages, then resume execution from that point. It makes debugging and refining results much faster and more flexible.
+**Tweaks**:Updated the example prompt from Multiply 2 and 3 to Add 5 and 10.
+
+### Lesson 4-
+
