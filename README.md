@@ -116,3 +116,8 @@ Followed the instructions in the README to create an environment and install dep
 ### Lesson 1- Streaming:
 Learned how streaming responses are generated step-by-step in LangGraph and how interruptions or pauses can be handled during a conversation flow. Also understood the concept of thread configuration and how it helps manage separate conversation sessions while executing state-based logic in real time.
 **Tweaks**:Updated the example prompt from Multiply 2 and 3 to Add 10 and 20.
+
+### Lesson 2- Breakpoints:
+Breakpoints in LangGraph let us pause a graph’s execution at certain nodes to observe data flow and intermediate outputs. They make debugging and testing easier by allowing us to inspect the graph’s state and then continue execution without restarting. Overall, it’s a clear and efficient way to understand and refine how the graph runs step by step.
+**Tweaks**:Updated the example prompt from Multiply 2 and 3 to Add 5 and 10.
+
