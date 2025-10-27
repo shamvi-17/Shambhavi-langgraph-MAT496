@@ -114,16 +114,18 @@ Followed the instructions in the README to create an environment and install dep
 ## MODULE 3
 
 ### Lesson 1- Streaming:
-Learned how streaming responses are generated step-by-step in LangGraph and how interruptions or pauses can be handled during a conversation flow. Also understood the concept of thread configuration and how it helps manage separate conversation sessions while executing state-based logic in real time.
+Learned how streaming responses are generated step-by-step and how interruptions or pauses can be handled during a conversation flow. Also understood the concept of thread configuration and how it helps manage separate conversation sessions while executing state-based logic in real time.
 **Tweaks**:Updated the example prompt from Multiply 2 and 3 to Add 10 and 20.
 
 ### Lesson 2- Breakpoints:
-Breakpoints in LangGraph let us pause a graph’s execution at certain nodes to observe data flow and intermediate outputs. They make debugging and testing easier by allowing us to inspect the graph’s state and then continue execution without restarting. Overall, it’s a clear and efficient way to understand and refine how the graph runs step by step.
+Breakpoints let us pause a graph’s execution at certain nodes to observe data flow and intermediate outputs. They make debugging and testing easier by allowing us to inspect the graph’s state and then continue execution without restarting. Overall, it’s a clear and efficient way to understand and refine how the graph runs step by step.
 **Tweaks**:Updated the example prompt from Multiply 2 and 3 to Add 5 and 10.
 
 ### Lesson 3- Editing State and Human Feedback 
 LangGraph lets us edit a graph’s state using human feedback without rerunning the whole flow. We can directly modify node outputs or messages, then resume execution from that point. It makes debugging and refining results much faster and more flexible.
 **Tweaks**:Updated the example prompt from Multiply 2 and 3 to Add 5 and 10.
 
-### Lesson 4-
+### Lesson 4- Dynamic Breakpoints:
+Dynamic breakpoints let us pause a graph’s execution only when certain conditions are met. Instead of stopping at fixed points, they adapt based on the data or logic being processed. This makes it easier to focus on specific parts of the workflow, analyze how the graph behaves in real situations, and debug issues more precisely without interrupting the entire flow.
+**Tweaks**: 
 
