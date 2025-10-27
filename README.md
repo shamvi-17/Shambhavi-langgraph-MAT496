@@ -127,5 +127,8 @@ LangGraph lets us edit a graph’s state using human feedback without rerunning 
 
 ### Lesson 4- Dynamic Breakpoints:
 Dynamic breakpoints let us pause a graph’s execution only when certain conditions are met. Instead of stopping at fixed points, they adapt based on the data or logic being processed. This makes it easier to focus on specific parts of the workflow, analyze how the graph behaves in real situations, and debug issues more precisely without interrupting the entire flow.
-**Tweaks**: 
+**Tweaks**:Changed variable name and generated corresponding result
+
+### Lesson 
+
 
