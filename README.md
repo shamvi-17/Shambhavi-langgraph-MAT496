@@ -111,4 +111,8 @@ Followed the instructions in the README to create an environment and install dep
 ![Alt text](image9.png)
 **Tweaks**:Added message timestamping and automatic session creation,showed how messages are added, retrieved, and filtered to resemble an active chat session.
 
- 
+## MODULE 3
+
+### Lesson 1- Streaming:
+Learned how streaming responses are generated step-by-step in LangGraph and how interruptions or pauses can be handled during a conversation flow. Also understood the concept of thread configuration and how it helps manage separate conversation sessions while executing state-based logic in real time.
+**Tweaks**:Updated the example prompt from Multiply 2 and 3 to Add 10 and 20.
