@@ -150,3 +150,7 @@ Parallelisation lets different parts of a graph run at the same time instead of 
 I learned how sub-graphs help break a larger workflow into smaller, more manageable parts. Each sub-graph can handle its own state and logic, which makes it easier to organise complex systems like multi-agent setups. I understood how data can flow between the main graph and its sub-graphs through overlapping keys, allowing them to share inputs and outputs smoothly. The example using logs and separate agents for summarising and detecting failures made it clear how sub-graphs can work together while staying independent.
 **Tweaks**: Changed the question logs for ChatOllama to questions for microcontroller.
 ![alt text](image14.png)
+
+### Lesson 3- Map Reduce:
+Map-reduce concept helps in breaking a large task into smaller ones and then combining the results. The “map” part handles dividing the task into parallel sub-tasks, while the “reduce” part merges all their outputs to get a final answer. This approach improves efficiency and organisation in AI workflows, especially when using multiple agents or LLMs together. The example of generating and selecting jokes made the concept easier to understand in practice.
+![alt text](image15.png)
