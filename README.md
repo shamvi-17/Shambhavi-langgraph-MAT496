@@ -138,5 +138,12 @@ Added another example (4 divided by 1) to show changes in assistant and tools se
 ![Alt text](image11.png)
 ![Alt text](image12.png)
 
+## Module 4
+
+### Lesson 1- Parallelisation:
+
+Parallelisation lets different parts of a graph run at the same time instead of waiting for one to finish before starting the next. It showed how we can **fan out** tasks to run separately and then **fan in** their results to combine everything smoothly. This makes workflows faster and more efficient, especially when dealing with multiple agents or large tasks.
+**Tweaks**: Changed Nvidia to Apple 
+![alt text](image13.png) 
 
 
