@@ -154,3 +154,9 @@ I learned how sub-graphs help break a larger workflow into smaller, more managea
 ### Lesson 3- Map Reduce:
 Map-reduce concept helps in breaking a large task into smaller ones and then combining the results. The “map” part handles dividing the task into parallel sub-tasks, while the “reduce” part merges all their outputs to get a final answer. This approach improves efficiency and organisation in AI workflows, especially when using multiple agents or LLMs together. The example of generating and selecting jokes made the concept easier to understand in practice.
 ![alt text](image15.png)
+
+### Lesson 4- Research assistant:
+Concepts like memory, human-in-the-loop, controllability, parallelisation, and sub-graphs all come together to build a complete AI research assistant. The idea is to automate the research process by dividing the task among multiple AI “analysts,” each focusing on different subtopics and then combining their findings. I found it interesting how human feedback is used to refine the research plan, making it more practical and accurate. Overall, it showed me how multi-agent systems can make research faster and more structured.
+**Tweaks**: Changing examples to analysts related to field of embedded and the essay to microcontrollers.
+![alt text](image.png)
+![alt text](image-1.png)
