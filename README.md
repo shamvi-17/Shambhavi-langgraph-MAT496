@@ -146,4 +146,7 @@ Parallelisation lets different parts of a graph run at the same time instead of 
 **Tweaks**: Changed Nvidia to Apple 
 ![alt text](image13.png) 
 
-
+### Lesson 2- Subgraphs:
+I learned how sub-graphs help break a larger workflow into smaller, more manageable parts. Each sub-graph can handle its own state and logic, which makes it easier to organise complex systems like multi-agent setups. I understood how data can flow between the main graph and its sub-graphs through overlapping keys, allowing them to share inputs and outputs smoothly. The example using logs and separate agents for summarising and detecting failures made it clear how sub-graphs can work together while staying independent.
+**Tweaks**: Changed the question logs for ChatOllama to questions for microcontroller.
+![alt text](image14.png)
